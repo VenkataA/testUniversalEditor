@@ -4,12 +4,12 @@
     "/content/testProject/configuration:/.helix/config.json",
     "/content/testProject/metadata:/metadata.json",
 
-    "/content/test-site/:/test-site/",
-    "/content/test-site/configuration:/test-site/.helix/config.json",
-    "/content/test-site/metadata:/test-site/metadata.json"
+    "/content/test/:/test/",
+    "/content/test/configuration:/test/.helix/config.json",
+    "/content/test/metadata:/test/metadata.json"
   ],
   "includes": [
     "/content/testProject/",
-    "/content/test-site/"
+    "/content/test/"
   ]
 }
