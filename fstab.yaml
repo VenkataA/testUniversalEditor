@@ -4,6 +4,6 @@ mountpoints:
     type: "markup"
     suffix: ".html"
   /test_site/:
-    url: "https://author-p155402-e1969656.adobeaemcloud.com//bin/franklin.delivery/vadidam/admin/main"
+    url: "https://author-p155402-e1969656.adobeaemcloud.com/bin/franklin.delivery/vadidam/admin/main"
     type: "markup"
     suffix: ".html"
