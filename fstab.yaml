@@ -4,7 +4,7 @@ mountpoints:
     type: "markup"
     suffix: ".html"
 
-  /test-site/:
+  /test:
     url: "https://author-p155402-e1969656.adobeaemcloud.com/bin/franklin.delivery/VenkataA/testUniversalEditor/main"
     type: "markup"
     suffix: ".html"
