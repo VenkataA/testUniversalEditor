@@ -1,9 +1,10 @@
 mountpoints:
   /:
-    url: "https://author-p154405-e1620382.adobeaemcloud.com//bin/franklin.delivery/VenkataA/testUniversalEditor/main"
+    url: "https://author-p154405-e1620382.adobeaemcloud.com/bin/franklin.delivery/VenkataA/testUniversalEditor/main"
     type: "markup"
     suffix: ".html"
+
   /test_site/:
-    url: "https://author-p155402-e1969656.adobeaemcloud.com//bin/franklin.delivery/VenkataA/testUniversalEditor/main"
+    url: "https://author-p154405-e1620382.adobeaemcloud.com/bin/franklin.delivery/VenkataA/testUniversalEditor/main"
     type: "markup"
     suffix: ".html"
