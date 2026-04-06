@@ -2,9 +2,13 @@
   "mappings": [
     "/content/testProject/:/",
     "/content/testProject/configuration:/.helix/config.json",
-    "/content/testProject/metadata:/metadata.json"
+    "/content/testProject/metadata:/metadata.json",
+    "/content/test_site/:/",
+    "/content/test_site/configuration:/.helix/config.json",
+    "/content/test_site/metadata:/metadata.json"
   ],
   "includes": [
     "/content/testProject/"
+    "/content/test_site/"
   ]
 }
